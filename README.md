@@ -1,17 +1,20 @@
-My focus is security operations and incident response: investigating alerts, understanding attacker activity, and determining what the evidence supports.
 
-This portfolio contains investigation write-ups, detection logic, and analysis tools. Projects include the data used, the steps taken, and the reasoning behind the findings.
+# Mohamed Ahmed
 
-### Areas of focus
+I'm focused on SOC analysis and incident response, with a practical interest in security monitoring, alert triage and evidence-based investigation.
 
-- Alert triage and incident investigation
-- Threat detection and detection tuning
-- Threat intelligence and indicator analysis
-- Incident scoping and response planning
-- Automation for repeatable analysis
+My labs cover Windows activity, PowerShell execution, suspicious network traffic and email-to-endpoint investigation. Each project includes the investigation steps, Splunk searches, screenshots and supporting evidence.
 
-### Projects
+## Projects
 
-[**Email Threat Investigation Lab**](https://github.com/muhameddahmedd1021/email-threat-investigation-lab) — Offline `.eml` triage with four documented investigation cases, reproducible reports, and automated tests.
+| Project | Focus |
+| --- | --- |
+| [Windows Persistence Investigation](https://github.com/muhameddahmedd1021/windows-persistence-investigation) | Scheduled tasks, Run keys and permanent WMI event subscriptions. |
+| [PowerShell Execution Investigation](https://github.com/muhameddahmedd1021/powershell-execution-investigation) | Routine activity, encoded commands and download-and-execute behavior. |
+| [Network Beaconing Investigation](https://github.com/muhameddahmedd1021/network-beaconing-investigation) | HTTP timing patterns, packet evidence and endpoint correlation. |
+| [Phishing Endpoint Investigation](https://github.com/muhameddahmedd1021/phishing-endpoint-investigation) | Controlled email delivery, attachment execution and endpoint evidence. |
 
-Each repository documents a specific problem, the investigation or implementation, and its limitations. Sample data and instructions are included where possible so the work can be reproduced.
+## Tools
+
+Splunk · Windows Event Logs · Sysmon · PowerShell · Wireshark
+
