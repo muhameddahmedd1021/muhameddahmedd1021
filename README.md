@@ -13,6 +13,8 @@ My labs cover Windows activity, PowerShell execution, suspicious network traffic
 | [PowerShell Execution Investigation](https://github.com/muhameddahmedd1021/powershell-execution-investigation) | Routine activity, encoded commands and download-and-execute behavior. |
 | [Network Beaconing Investigation](https://github.com/muhameddahmedd1021/network-beaconing-investigation) | HTTP timing patterns, packet evidence and endpoint correlation. |
 | [Phishing Endpoint Investigation](https://github.com/muhameddahmedd1021/phishing-endpoint-investigation) | Controlled email delivery, attachment execution and endpoint evidence. |
+| [Windows Authentication Investigation](https://github.com/muhameddahmedd1021/windows-authentication-investigation) | Failed logons, account lockout, password correction and scheduled-task credentials. |
+| [Remote Access and Lateral Movement Investigation](https://github.com/muhameddahmedd1021/remote-access-lateral-movement-investigation) | RDP sessions, share permissions, file transfer and WinRM execution. |
 
 ## Tools
 
