@@ -15,7 +15,7 @@ This GitHub documents my practical SOC lab projects, with investigation notes, S
 | [Windows Persistence Investigation](https://github.com/muhameddahmedd1021/windows-persistence-investigation) | Scheduled tasks, Run keys and permanent WMI event subscriptions. |
 | [PowerShell Execution Investigation](https://github.com/muhameddahmedd1021/powershell-execution-investigation) | Routine activity, encoded commands and download-and-execute behavior. |
 | [Phishing Endpoint Investigation](https://github.com/muhameddahmedd1021/phishing-endpoint-investigation) | Controlled email delivery, attachment execution and endpoint evidence. |
-| [Web Application Command Injection Investigation](https://github.com/muhameddahmedd1021/network-beaconing-investigation) | WAF detection and prevention, server processes and proxy download evidence. |
+| [Web Application Command Injection Investigation](https://github.com/muhameddahmedd1021/web-application-command-injection-investigation) | WAF detection and prevention, server processes and proxy download evidence. |
 
 ## Tools
 
